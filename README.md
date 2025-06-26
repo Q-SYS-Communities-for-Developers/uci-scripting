@@ -45,6 +45,8 @@ If you have any questions or comments about this file, please go to [developers.
 
 - 1.0
   - Initial Release
+- 1.1
+  - Formatting fixes for programming challenge 
 
 ## License
 
